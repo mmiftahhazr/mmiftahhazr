@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Muhamad Miftah</h1>
-<p align="center">🎓 Software Engineering Student | 💻 PHP Enthusiast</p>
+<p align="center">🎓 Software Engineering Student</p>
 
 ---
 
@@ -8,7 +8,7 @@
 - 🎓 Kuliah jurusan **Software Engineer**
 - 🔭 Sedang mengembangkan proyek **E-Commerce** menggunakan PHP
 - 🌱 Saat ini sedang mendalami **pengembangan web**
-- 📫 Hubungi saya di: [mmiftahhazr@gmail.com](mailto:mmiftahhazr@gmail.com)
+- 📫 Hubungi saya di: [muhmiftah1106@gmail.com](mailto:muhmiftah1106@gmail.com)
 
 ---
 
@@ -40,7 +40,7 @@ Sebuah proyek e-commerce sederhana yang dibangun dengan PHP.
 
 ## 🔗 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmiftahhazr@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhmiftah1106@gmail.com)
 
 ---
 
